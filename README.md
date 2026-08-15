@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 🌐 Live Portfolio
 
-View My Portfolio
+View My Portfolio -https://divyasp-portfolio.netlify.app/
 
 🛠️ Technologies Used
 HTML
